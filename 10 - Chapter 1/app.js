@@ -82,3 +82,9 @@ function setup() {
 function draw() {
     //
 }
+
+//let javab = prompt("why are you gay?", "trans gendaa");
+//console.log(javab);
+
+//alert("ridi");
+//faghat alert mide va kare dg e nemikone (vote)
